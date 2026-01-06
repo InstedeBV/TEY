@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Als op rode lijst informeren"
+    id="id-f93d44347e514b02b44934f5cf2e699d">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-506d424eb7b24e2bb50f12833cc70b1a.xml#id-506d424eb7b24e2bb50f12833cc70b1a"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-5e9e5a4fa5ce45d3b24f1671b3b23295.xml#id-5e9e5a4fa5ce45d3b24f1671b3b23295"/>
+</archimate:AssociationRelationship>

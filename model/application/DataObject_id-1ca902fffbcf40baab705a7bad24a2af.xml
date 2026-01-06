@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verblijfsinformatie"
+    id="id-1ca902fffbcf40baab705a7bad24a2af">
+  <properties
+      key="Verblijfsdatum_Start"/>
+  <properties
+      key="Verblijfsdatum_Stop"/>
+</archimate:DataObject>
