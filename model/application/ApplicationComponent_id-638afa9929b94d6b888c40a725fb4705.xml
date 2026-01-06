@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="EJD"
-    id="id-638afa9929b94d6b888c40a725fb4705"/>
+    id="id-638afa9929b94d6b888c40a725fb4705"
+    documentation="Centraal systeem voor processen, rapportages, overzichten (Daglijst, Rode Lijst), managementinformatie veiligheid, wensen voor automatisering."/>
