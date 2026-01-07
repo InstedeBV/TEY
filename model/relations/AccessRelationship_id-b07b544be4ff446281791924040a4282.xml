@@ -1,0 +1,23 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b07b544be4ff446281791924040a4282">
+  <properties
+      key="Wat doet het met u?"/>
+  <properties
+      key="Bent u op de hoogte waarvan uw zoon verdacht wordt?"/>
+  <properties
+      key="Wat zou u als ouder graag willen voor uw kind in de toekomst?"/>
+  <properties
+      key="Welke aandachtspunten?"/>
+  <properties
+      key="Relaties"/>
+  <properties
+      key="Rondleiding? Waarom niet?"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-c09dee8245414a3fa9699acf013ed87e.xml#id-c09dee8245414a3fa9699acf013ed87e"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-7f6534ca78954e7b94ebe960dc5a7e97.xml#id-7f6534ca78954e7b94ebe960dc5a7e97"/>
+</archimate:AccessRelationship>

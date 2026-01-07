@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Caseload Inzage Service"
+    id="id-8e9fdb7130674528ae8cf61f953df2fe"
+    documentation="Levert een actueel overzicht van jongeren, statussen, signalen en taken binnen de verantwoordelijkheid van een functionaris."/>

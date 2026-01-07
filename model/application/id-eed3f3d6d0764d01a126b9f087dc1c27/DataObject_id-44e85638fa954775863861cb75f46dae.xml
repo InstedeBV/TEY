@@ -1,0 +1,17 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Huisvesting"
+    id="id-44e85638fa954775863861cb75f46dae">
+  <properties
+      key="Thuiswonend"/>
+  <properties
+      key="Kan je weer terug naar huis?"/>
+  <properties
+      key="Huurwoning"/>
+  <properties
+      key="Zelfstandig wonen"/>
+  <properties
+      key="Wachtlijst"/>
+  <properties
+      key="Woonpas ingeschreven?"/>
+</archimate:DataObject>

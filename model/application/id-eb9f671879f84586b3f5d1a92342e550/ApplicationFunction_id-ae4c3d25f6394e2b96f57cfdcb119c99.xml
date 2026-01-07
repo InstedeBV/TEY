@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Caseload Samenstellen"
+    id="id-ae4c3d25f6394e2b96f57cfdcb119c99"
+    documentation="filteren op rol / medewerker&#xA;toepassen van autorisaties&#xA;samenvoegen van:&#xA;Jongerendossiers&#xA;Processtatussen&#xA;Signalen&#xA;Deadlines"/>

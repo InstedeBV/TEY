@@ -1,0 +1,49 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Signalement"
+    id="id-b68688504e3647218b42dd1920fe4893">
+  <properties
+      key="Brildragend"/>
+  <properties
+      key="Contactlenzen"/>
+  <properties
+      key="Huid/moedervlekken"/>
+  <properties
+      key="Littekens"/>
+  <properties
+      key="Piercing"/>
+  <properties
+      key="Tatoeage"/>
+  <properties
+      key="Gezichtsbeharing"/>
+  <properties
+      key="Wenkbrauwen"/>
+  <properties
+      key="Haar"/>
+  <properties
+      key="Haardracht"/>
+  <properties
+      key="Huidskleur"/>
+  <properties
+      key="Kin"/>
+  <properties
+      key="Lichamelijke gebreken"/>
+  <properties
+      key="Lippen"/>
+  <properties
+      key="Mond"/>
+  <properties
+      key="Neus"/>
+  <properties
+      key="Ogen"/>
+  <properties
+      key="Postuur"/>
+  <properties
+      key="Vorm gelaat"/>
+  <properties
+      key="Lengte (CM)"/>
+  <properties
+      key="Gewicht (KG)"/>
+  <properties
+      key="Schoenmaat"/>
+</archimate:DataObject>

@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ouders"
+    id="id-f6fede8bca614c3aa2e5a0334ce3a655">
+  <properties
+      key="Moeder"/>
+  <properties
+      key="Vader"/>
+</archimate:DataObject>

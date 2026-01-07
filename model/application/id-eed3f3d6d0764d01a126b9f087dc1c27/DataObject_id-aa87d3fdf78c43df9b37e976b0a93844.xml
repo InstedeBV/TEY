@@ -1,0 +1,13 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financieen"
+    id="id-aa87d3fdf78c43df9b37e976b0a93844">
+  <properties
+      key="Schadevergoeding"/>
+  <properties
+      key="Zorgtoeslag"/>
+  <properties
+      key="Studiefinanciering"/>
+  <properties
+      key="OV-Chipkaart"/>
+</archimate:DataObject>

@@ -1,0 +1,35 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jongere gegevens"
+    id="id-f584974d87aa4a6eaa35e5f590dc4683">
+  <properties
+      key="SKN"/>
+  <properties
+      key="JJI"/>
+  <properties
+      key="Achternaam"/>
+  <properties
+      key="Voornaam"/>
+  <properties
+      key="Geboortedatum"/>
+  <properties
+      key="Straat + Huisnummer"/>
+  <properties
+      key="Postcode + Woonplaats"/>
+  <properties
+      key="Telefoonnummer"/>
+  <properties
+      key="Rekeningnummer"/>
+  <properties
+      key="Spreektaal NL?"/>
+  <properties
+      key="Afdeling + Kamernummer"/>
+  <properties
+      key="ID-Origineel in kluis"/>
+  <properties
+      key="ID-Soort"/>
+  <properties
+      key="BSN"/>
+  <properties
+      key="Urinecontrole gelukt?"/>
+</archimate:DataObject>

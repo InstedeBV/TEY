@@ -1,0 +1,9 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gezondheid"
+    id="id-4c084d3ffded4d4d8cf0ca68c300aec9">
+  <properties
+      key="Bekend met ziekte?"/>
+  <properties
+      key="Huisarts/ ziekenhuis"/>
+</archimate:DataObject>
