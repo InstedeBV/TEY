@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logging, audit en rapportage"
+    id="id-8c801ce6946a4c95a162a0b98bbcac87">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-638afa9929b94d6b888c40a725fb4705.xml#id-638afa9929b94d6b888c40a725fb4705"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-31080e2d2b1e4323b274969d3bc88449.xml#id-31080e2d2b1e4323b274969d3bc88449"/>
+</archimate:ServingRelationship>

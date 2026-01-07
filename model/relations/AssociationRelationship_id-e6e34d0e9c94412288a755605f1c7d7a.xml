@@ -1,13 +1,12 @@
-<archimate:ServingRelationship
+<archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ontvangst plaatsings- en titelgegevens"
-    id="id-c561cee12e2040e6a4775f30492fd722"
-    documentation="Jongere, titel, maatregel, startdatum">
+    name="Uittreksel Justitiële Documentatie"
+    id="id-e6e34d0e9c94412288a755605f1c7d7a">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-b2d8bff2b22b47f4aae829ada2f7dcd2.xml#id-b2d8bff2b22b47f4aae829ada2f7dcd2"/>
+      href="ApplicationComponent_id-dd2ccab4cc934974b4915dfa5cfac4cd.xml#id-dd2ccab4cc934974b4915dfa5cfac4cd"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-638afa9929b94d6b888c40a725fb4705.xml#id-638afa9929b94d6b888c40a725fb4705"/>
-</archimate:ServingRelationship>
+</archimate:AssociationRelationship>
