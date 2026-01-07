@@ -1,18 +1,18 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Applications"
+    name="Applicaties_Overview"
     id="id-bed010c83d464a4b9028b1bca298ca3c">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-7bb9b0d781c049b28fc01e7bd346f99a"
-      name="Justitiele Ketensystemen"
+      name="DJI Systemen"
       textAlignment="1"
       fillColor="#eaeaea">
     <bounds
         x="12"
         y="36"
-        width="229"
+        width="313"
         height="613"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -54,7 +54,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f5f6a7c9ec714629a2acd24ee58374a7">
       <bounds
-          x="36"
+          x="168"
           y="288"
           width="120"
           height="55"/>
@@ -79,7 +79,7 @@
         id="id-a44b0cd0536742e0bb92c16a66fecbcc">
       <bounds
           x="36"
-          y="456"
+          y="288"
           width="120"
           height="55"/>
       <archimateElement
@@ -118,7 +118,7 @@
       textAlignment="1"
       fillColor="#eaeaea">
     <bounds
-        x="972"
+        x="1092"
         y="288"
         width="229"
         height="361"/>
@@ -166,7 +166,7 @@
       textAlignment="1"
       fillColor="#eaeaea">
     <bounds
-        x="972"
+        x="1092"
         y="24"
         width="229"
         height="241"/>
@@ -202,7 +202,7 @@
       textAlignment="1"
       fillColor="#eaeaea">
     <bounds
-        x="744"
+        x="852"
         y="420"
         width="217"
         height="229"/>
@@ -226,7 +226,7 @@
       textAlignment="1"
       fillColor="#eaeaea">
     <bounds
-        x="252"
+        x="348"
         y="420"
         width="481"
         height="229"/>
@@ -295,8 +295,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-be0e0c142fac4bb1841f4d0f2135b294">
     <bounds
-        x="264"
-        y="84"
+        x="348"
+        y="48"
         width="120"
         height="55"/>
     <archimateElement

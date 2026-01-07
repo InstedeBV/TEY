@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="JD-Online"
-    id="id-a19b7e17121a4e8083d5ee02a8de58b1"/>
+    id="id-a19b7e17121a4e8083d5ee02a8de58b1"
+    documentation="Uittreksels justitiële documentatie (strafblad).&#xA;Persoonsdossiers.&#xA;Andere relevante strafrechtelijke informatie over de jongere (bijv. voorgeschiedenis, vonnissen, risicotaxaties)."/>
