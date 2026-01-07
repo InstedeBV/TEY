@@ -12,8 +12,8 @@
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-ec9fb7164aec4c23858f4faded498cbf.xml#id-ec9fb7164aec4c23858f4faded498cbf"/>
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-0cda0f269fa3423d8ca96df6968c46aa.xml#id-0cda0f269fa3423d8ca96df6968c46aa"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -144,6 +144,11 @@
         id="id-3f658c411b5c427d80dafe30c10156d6"
         source="id-53100a665bed40489e65b7b2b50333d5"
         target="id-2d493714c5754a2ebe8961283cff4b2f">
+      <bendpoints
+          startX="156"
+          startY="45"
+          endX="-192"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-f7372c6ae5d2434d8c922ed6549edff7.xml#id-f7372c6ae5d2434d8c922ed6549edff7"/>
@@ -153,6 +158,11 @@
         id="id-54f3f95ae15b4ad9b5bec26800087947"
         source="id-53100a665bed40489e65b7b2b50333d5"
         target="id-ac7120d413e84605a4f13c90a7be5164">
+      <bendpoints
+          startX="144"
+          startY="-51"
+          endX="-204"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-b68923b9d86446959f24d2289c7a3b90.xml#id-b68923b9d86446959f24d2289c7a3b90"/>
@@ -802,8 +812,8 @@
           href="ServingRelationship_id-d9c9b1ad43604573b1506417ff9aa25c.xml#id-d9c9b1ad43604573b1506417ff9aa25c"/>
     </sourceConnections>
     <bounds
-        x="732"
-        y="468"
+        x="720"
+        y="492"
         width="120"
         height="55"/>
     <archimateElement
@@ -858,8 +868,8 @@
       id="id-ac7120d413e84605a4f13c90a7be5164"
       targetConnections="id-54f3f95ae15b4ad9b5bec26800087947">
     <bounds
-        x="732"
-        y="300"
+        x="720"
+        y="334"
         width="120"
         height="55"/>
     <archimateElement
@@ -871,8 +881,8 @@
       id="id-2d493714c5754a2ebe8961283cff4b2f"
       targetConnections="id-33ec4df9f09f493eac975604c52ce198 id-3f658c411b5c427d80dafe30c10156d6">
     <bounds
-        x="732"
-        y="384"
+        x="720"
+        y="420"
         width="120"
         height="55"/>
     <archimateElement
