@@ -145,10 +145,10 @@
         source="id-53100a665bed40489e65b7b2b50333d5"
         target="id-2d493714c5754a2ebe8961283cff4b2f">
       <bendpoints
-          startX="156"
+          startX="168"
           startY="45"
-          endX="-192"
-          endY="-3"/>
+          endX="-168"
+          endY="9"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-f7372c6ae5d2434d8c922ed6549edff7.xml#id-f7372c6ae5d2434d8c922ed6549edff7"/>
@@ -159,10 +159,10 @@
         source="id-53100a665bed40489e65b7b2b50333d5"
         target="id-ac7120d413e84605a4f13c90a7be5164">
       <bendpoints
-          startX="144"
-          startY="-51"
-          endX="-204"
-          endY="-3"/>
+          startX="168"
+          startY="-63"
+          endX="-168"
+          endY="-13"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-b68923b9d86446959f24d2289c7a3b90.xml#id-b68923b9d86446959f24d2289c7a3b90"/>
