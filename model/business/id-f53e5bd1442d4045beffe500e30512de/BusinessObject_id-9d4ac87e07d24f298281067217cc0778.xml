@@ -1,0 +1,11 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mock_Verblijfsinformatie"
+    id="id-9d4ac87e07d24f298281067217cc0778">
+  <properties
+      key="Leefgroep"/>
+  <properties
+      key="Kamer"/>
+  <properties
+      key="Mentor"/>
+</archimate:BusinessObject>
