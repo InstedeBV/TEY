@@ -19,7 +19,7 @@
         id="id-36fa2fcccbcd4e6aad9e7244fe063ab1">
       <bounds
           x="24"
-          y="132"
+          y="228"
           width="120"
           height="55"/>
       <archimateElement
@@ -31,7 +31,7 @@
         id="id-3bc8b9168242420bb8790c750f190b72">
       <bounds
           x="24"
-          y="216"
+          y="468"
           width="120"
           height="55"/>
       <archimateElement
@@ -43,7 +43,7 @@
         id="id-df56ece17f8b41f59a9e3c27c9062ef0">
       <bounds
           x="24"
-          y="312"
+          y="396"
           width="120"
           height="55"/>
       <archimateElement
